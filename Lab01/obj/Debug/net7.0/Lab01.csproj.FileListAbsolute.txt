@@ -1,0 +1,15 @@
+/Users/artemgerencuk/Projects/Lab01/Lab01/bin/Debug/net7.0/Lab01
+/Users/artemgerencuk/Projects/Lab01/Lab01/bin/Debug/net7.0/Lab01.deps.json
+/Users/artemgerencuk/Projects/Lab01/Lab01/bin/Debug/net7.0/Lab01.runtimeconfig.json
+/Users/artemgerencuk/Projects/Lab01/Lab01/bin/Debug/net7.0/Lab01.dll
+/Users/artemgerencuk/Projects/Lab01/Lab01/bin/Debug/net7.0/Lab01.pdb
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/Lab01.csproj.AssemblyReference.cache
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/Lab01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/Lab01.AssemblyInfoInputs.cache
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/Lab01.AssemblyInfo.cs
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/Lab01.csproj.CoreCompileInputs.cache
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/Lab01.dll
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/refint/Lab01.dll
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/Lab01.pdb
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/Lab01.genruntimeconfig.cache
+/Users/artemgerencuk/Projects/Lab01/Lab01/obj/Debug/net7.0/ref/Lab01.dll
