@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{B36C3026-FEA7-4CA4-8454-88100B6D49A2}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lab01 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Lab01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lab01__Test FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
